@@ -13,7 +13,7 @@
 
 📧 Email - prachimishra23123@gmail.com
 
-💼 Portfolio - [huzaifa-sheikh.netlify.app](https://huzaifa-sheikh.netlify.app/)
+💼 Portfolio - [huzaifa-sheikh.netlify.app](https://misprachi023.github.io/prachi-portfolio/)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-mishra-45b80b279/)
