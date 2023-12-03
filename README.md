@@ -7,9 +7,7 @@
 
 🌍 I'm based in Bhopal, India
 
-⚛️ Some technologies that I love to working with includes  Javascript, React, Html, CSS, and Python.
-
-🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap & styled-components.
+⚛️ Some technologies that I love to working with includes  Javascript, React, Html, CSS, and Python
 
 😃 My interest includes Cybersecurity & Blockchain technology.
 
