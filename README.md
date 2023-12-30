@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.hackerrank.com/profile/mishramamta1201" target="_blank">
-  <img align="left" alt="Prachi's Hackerrank" width="100px" src="https://img.icons8.com/?size=160&id=HSqTN92Y0X51&format=png" />
+  <img align="left" alt="Prachi's Hackerrank" width="100px" src="https://developerpitstop.com/wp-content/uploads/2021/09/hackerank-logo.png" />
 </a>
 
 <br />
