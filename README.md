@@ -4,7 +4,7 @@
   <img align="left" alt="Prachi's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 <a href="https://www.hackerrank.com/profile/mishramamta1201" target="_blank">
-  <img align="left" alt="Prachi's Hackerrank" width="100px" src="https://i.ytimg.com/vi/tJl36vQtA5k/maxresdefault.jpg"/>
+  <img align="left" alt="Prachi's Hackerrank" width="100px" src="https://marketplace.jazzhr.com/wp-content/uploads/78043367-hackerrank-logo-latest.png"/>
 </a>
 
 <br />
