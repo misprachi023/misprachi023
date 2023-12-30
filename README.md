@@ -1,39 +1,71 @@
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+
+<a href="https://www.linkedin.com/in/prachi-mishra-45b80b279/" target="_blank">
+  <img align="left" alt="Prachi's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/mishramamta1201" target="_blank">
+  <img align="left" alt="Prachi's Hackerrank" width="100px" src="https://img.icons8.com/?size=160&id=HSqTN92Y0X51&format=png" />
+</a>
+
+<br />
+
+<br/>
+<h3>Hi, I'm Prachi, passionate about learning with an endless supply of optimism and curiosity.</h3>
+<br/>
+<br />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
+I'm a solution-driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
+  
+- 💼 any freelance work? do reach, [prachimishra23123@gmail.com](mailto:prachimishra23123@gmail.com) :)
+- 💬 ask me about anything, I would love to help ;)
+- 🖇️ All of my projects are available at:- <a href="https://misprachi023.github.io/prachi-portfolio/" target="_blank">Portfolio</a>
 
 
 
-### Hi there 👋
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Prachi Mishra</h1>
-<h4 align="center"> Early interest evolved into a formal pursuit when, after completing my 12th, I delved into a  BTech . During my journey through higher education, I seized the opportunity to enroll in a Full Stack Web Development course at Prepleaf by Masai. ✨.</h4>
+<br>
+<br/>
+<span><h2 align="center">Languages and Tools:</h2>
+  <br>
+  <p align="center">
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15"/>
+      <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="GIT" width="55" height="55" marginleft="15"/>
+</p></span>
 
-🌍 I'm based in Bhopal, India
-
-⚛️ Some technologies that I love to working with includes  Javascript, React, Html, CSS, and Python
-
-😃 My interest includes Cybersecurity & Blockchain technology.
-
-📧 Email - prachimishra23123@gmail.com
-
-💼 Portfolio - [prachi-portfolio.github.io](https://misprachi023.github.io/prachi-portfolio/)
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachi-mishra-45b80b279/)
-
-
-# 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
+<br><br>
 
 
+<br /><br />
+<h2 align="center">📊 My Github Stats<h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=misprachi023&theme=radical" alt="Prachi Mishra" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=misprachi023&show_icons=true&theme=radical" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misprachi023&theme=radical&langs_count=8" alt="Prachi Mishra" height="260px" width="100%"/>
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=misprachi023&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<!--
+**misprachi023/misprachi023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=misprachi023&theme=react&hide_border=false)<br/>
+Here are some ideas to get you started:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=misprachi023&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
