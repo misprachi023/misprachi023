@@ -2,8 +2,9 @@
 
 <a href="https://www.linkedin.com/in/prachi-mishra-45b80b279/" target="_blank">
   <img align="left" alt="Prachi's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
-</a><a href="https://www.hackerrank.com/profile/mishramamta1201" target="_blank">
-  <img align="left" alt="Prachi's Hackerrank" width="100px" src="https://developerpitstop.com/wp-content/uploads/2021/09/hackerank-logo.png" />
+</a>
+<a href="https://www.hackerrank.com/profile/mishramamta1201" target="_blank">
+  <img align="left" alt="Prachi's Hackerrank" width="100px" src="https://tse3.mm.bing.net/th?id=OIP.c9X2PdGC1esH6pr6IDMMuQHaBs&pid=Api&P=0&h=180"/>
 </a>
 
 <br />
@@ -13,7 +14,7 @@
 <br/>
 <br />
 <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
-I'm a solution-driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
+I'm a solution-driven Full Stack Web Developer. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
   
 - 💼 any freelance work? do reach, [prachimishra23123@gmail.com](mailto:prachimishra23123@gmail.com) :)
 - 💬 ask me about anything, I would love to help ;)
