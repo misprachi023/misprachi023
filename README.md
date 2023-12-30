@@ -2,16 +2,14 @@
 
 <a href="https://www.linkedin.com/in/prachi-mishra-45b80b279/" target="_blank">
   <img align="left" alt="Prachi's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/mishramamta1201" target="_blank">
+</a><a href="https://www.hackerrank.com/profile/mishramamta1201" target="_blank">
   <img align="left" alt="Prachi's Hackerrank" width="100px" src="https://developerpitstop.com/wp-content/uploads/2021/09/hackerank-logo.png" />
 </a>
 
 <br />
 
 <br/>
-<h3>Hi, I'm Prachi, passionate about learning with an endless supply of optimism and curiosity.</h3>
+<h3>Hi, I'm Prachi, I am a passionate Full Stack Web Developer with expertise in both frontend and backend technologies. My goal is to create seamless and responsive web applications that deliver exceptional user experiences.</h3>
 <br/>
 <br />
 <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
