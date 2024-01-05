@@ -6,6 +6,8 @@
 <a href="https://www.hackerrank.com/profile/mishramamta1201" target="_blank">
   <img align="left" alt="Prachi's Hackerrank" width="100px" src="https://marketplace.jazzhr.com/wp-content/uploads/78043367-hackerrank-logo-latest.png"/>
 </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=misprachi023&label=Profile%20views&color=0e75b6&style=flat" alt="prachimishra" /> </p>
+<img align="right" width="400" style=";" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnd5OXRzZnN2a3QwbXo5NTA3YjZ3d2M3YXh1aWZ1dmZodGc5M243cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"/>
 
 <br />
 
