@@ -37,6 +37,7 @@ I'm a solution-driven Full Stack Web Developer. Highly passionate about building
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15"/>
+    <img src="https://img.icons8.com/?size=96&id=r9QJ0VFFrn7T&format=png" alt ="chakra" width="55" height="55" />
       <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="GIT" width="55" height="55" marginleft="15"/>
 </p></span>
 
