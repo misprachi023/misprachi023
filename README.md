@@ -33,7 +33,7 @@ I'm a solution-driven Full Stack Web Developer. Highly passionate about building
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="55" height="55"/>
-      <img src= "https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt ="Express" width="70" height ="60" color="red"/>
+      <img src= "https://tse1.mm.bing.net/th?id=OIP.igsTOJNvPT5roAeEEwUn7QAAAA&pid=Api&P=0&h=180" alt ="Express" width="70" height ="60" color="red"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15"/>
